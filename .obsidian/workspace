@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.html.md",
-            "mode": "source"
+            "file": "another one.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.html.md",
+                "file": "another one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,10 @@
   },
   "active": "30c820f936051c24",
   "lastOpenFiles": [
+    "another one.md",
+    "index.md",
+    "and a link to another.md",
+    "index.html.md",
     "Untitled.md"
   ]
 }
