@@ -1,2 +1,2 @@
 # Hello World
-This is a file [[hello | hello]] and [[another one]]
+This is a file [Hello](/hello)
